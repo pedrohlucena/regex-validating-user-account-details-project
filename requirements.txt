@@ -1,0 +1,83 @@
+REQUIREMENTS FOR ACCOUNT DETAILS
+
+First Name:
+
+Does not contain any other characters besides letters.
+
+It starts with a capital letter and all the other letters are lowercase.
+
+Is at least 2 characters long.
+
+
+
+Last Name:
+
+Does not contain any other characters besides letters.
+
+It starts with a capital letter and all the other letters are lowercase.
+
+Is at least 2 characters long.
+
+
+
+Date of birth:
+
+The person was born before January 1st 2002.
+
+Contains only digits and forward slashes.
+
+Follows the format MM/DD/YYYY
+
+
+
+Email address:
+
+Follows the correct format: username@domain.extension
+
+The username may contain only letters, digits, dots or the underscore character.
+
+The domain may contain only lowercase letters.
+
+The extension may contain only 2, 3 or 4 lowercase letters.
+
+
+
+Username:
+
+Does not contain any other characters besides letters, digits or the underscore character.
+
+Has a minimum of 6 characters and a maximum of 12 characters.
+
+
+
+Password:
+
+Is at least 8 characters long.
+
+Starts with a lowercase letter.
+
+Should contain at least one lowercase letter, one uppercase letter, one digit and one of the following characters: $, &, ?, ! or %.
+
+
+
+Credit card number:
+
+The card should be issued by Visa or Mastercard only (starting with a 4 or a 5).
+
+It is exactly 16 digits long and contains no other characters besides digits.
+
+
+
+Credit card expiration date:
+
+Is not sooner than May 2024 inclusively.
+
+Contains only digits and forward slashes.
+
+Follows the format MM/YY
+
+
+
+Credit card verification code / verification value (CVC / CVV):
+
+Is a 3 digit number, does not contain any other characters.
